@@ -72,8 +72,8 @@ const Todo = () => {
         <div className='main-div'>
             <div className='child-div'>
                 <figure>
-                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fto-do-list-flat-design-concept-icon-logo-dark-background-white-to-do-list-flat-design-concept-icon-logo-dark-133647677.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fto-do-list-flat-design-concept-icon-logo-dark-background-white-to-do-list-flat-design-concept-icon-logo-dark-image133647677&tbnid=xS12k7V9LckqCM&vet=12ahUKEwiX-4ThpN_7AhWtidgFHfJEBqsQMygCegUIARDJAQ..i&docid=DV9_INt7o3gLfM&w=800&h=800&q=todo%20list%20logo%20in%20white&ved=2ahUKEwiX-4ThpN_7AhWtidgFHfJEBqsQMygCegUIARDJAQ" alt="todo logo"></img>
-                    <figcaption>hii my name is mahendra</figcaption>
+                    <img src="https://img.icons8.com/carbon-copy/2x/todo-list.png" alt="todo logo"></img>
+                    <figcaption>Add your list here✌</figcaption>
                 </figure>
                 <div className='addItems'>
                     <input type="text" placeholder='✍add Item' className='form-control' value={inputData} onChange={(event) => setInputData(event.target.value) }/>
