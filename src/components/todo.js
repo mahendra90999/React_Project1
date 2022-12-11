@@ -72,7 +72,7 @@ const Todo = () => {
         <div className='main-div'>
             <div className='child-div'>
                 <figure>
-                    {/* <img src="#" alt="todo logo"></img> */}
+                    <img src="./componets/image/download.png" alt="todo logo"></img>
                     <figcaption>Add your list here✌</figcaption>
                 </figure>
                 <div className='addItems'>
