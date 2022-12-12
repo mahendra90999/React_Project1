@@ -1,2 +1,2 @@
 live Demo:
-  https://mahendra90999.github.io/React_project1/
+  https://mahendra90999.github.io/To-Do-list-React-Project/
