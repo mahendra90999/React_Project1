@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_project1/static/css/main.beef6503.css",
-    "main.js": "/React_project1/static/js/main.f1eb1ea8.js",
-    "static/js/787.c6a9a21d.chunk.js": "/React_project1/static/js/787.c6a9a21d.chunk.js",
-    "index.html": "/React_project1/index.html",
-    "main.beef6503.css.map": "/React_project1/static/css/main.beef6503.css.map",
-    "main.f1eb1ea8.js.map": "/React_project1/static/js/main.f1eb1ea8.js.map",
-    "787.c6a9a21d.chunk.js.map": "/React_project1/static/js/787.c6a9a21d.chunk.js.map"
+    "main.css": "/mahendra90999/React_Project1/static/css/main.beef6503.css",
+    "main.js": "/mahendra90999/React_Project1/static/js/main.ae4eb6d3.js",
+    "static/js/787.c6a9a21d.chunk.js": "/mahendra90999/React_Project1/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/mahendra90999/React_Project1/index.html",
+    "main.beef6503.css.map": "/mahendra90999/React_Project1/static/css/main.beef6503.css.map",
+    "main.ae4eb6d3.js.map": "/mahendra90999/React_Project1/static/js/main.ae4eb6d3.js.map",
+    "787.c6a9a21d.chunk.js.map": "/mahendra90999/React_Project1/static/js/787.c6a9a21d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.beef6503.css",
-    "static/js/main.f1eb1ea8.js"
+    "static/js/main.ae4eb6d3.js"
   ]
 }
