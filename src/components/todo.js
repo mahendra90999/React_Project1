@@ -72,8 +72,8 @@ const Todo = () => {
         <div className='main-div'>
             <div className='child-div'>
                 <figure>
-                    {/* <img src="./componets/image/download.png" alt="todo logo"></img> */}
-                    {/* <figcaption>Add your list here✌</figcaption> */}
+                    <img src="./componets/image/download.png" alt="todo logo"></img>
+                    <figcaption>Add your list here✌</figcaption>
                 </figure>
                 <div className='addItems'>
                     <input type="text" placeholder='✍add Item' className='form-control' value={inputData} onChange={(event) => setInputData(event.target.value) }/>
